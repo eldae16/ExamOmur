@@ -1,0 +1,10 @@
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\bin\Debug\MainProgram.exe.config
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\bin\Debug\MainProgram.exe
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\bin\Debug\MainProgram.pdb
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\bin\Debug\DllLibrary.dll
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\bin\Debug\DllLibrary.pdb
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\obj\Debug\MainProgram.csproj.AssemblyReference.cache
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\obj\Debug\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\obj\Debug\MainProgram.csproj.CopyComplete
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\obj\Debug\MainProgram.exe
+C:\Users\eomur\source\repos\ExamOmur\MainProgram\obj\Debug\MainProgram.pdb

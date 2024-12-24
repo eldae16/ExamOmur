@@ -1,0 +1,6 @@
+C:\Users\eomur\source\repos\ExamOmur\DllLibrary\bin\Debug\DllLibrary.dll
+C:\Users\eomur\source\repos\ExamOmur\DllLibrary\bin\Debug\DllLibrary.pdb
+C:\Users\eomur\source\repos\ExamOmur\DllLibrary\obj\Debug\DllLibrary.csproj.AssemblyReference.cache
+C:\Users\eomur\source\repos\ExamOmur\DllLibrary\obj\Debug\DllLibrary.csproj.CoreCompileInputs.cache
+C:\Users\eomur\source\repos\ExamOmur\DllLibrary\obj\Debug\DllLibrary.dll
+C:\Users\eomur\source\repos\ExamOmur\DllLibrary\obj\Debug\DllLibrary.pdb
